@@ -22,4 +22,11 @@ public static String Faculty6="Training Area: CSA";
 public static String Faculty7="Requirement: AI Testing";
 public static String Faculty8="Category: Academic";
 public static String Faculty9="Category: Govt";
+
+
+public static String Admin1="http://143.244.139.123:3001/dashboard/requirement-list";
+public static String Admin2="http://143.244.139.123:3001/dashboard/requirement-list/rform";
+public static String Admin3="http://143.244.139.123:3001/dashboard/pending";
+public static String Admin4="  Pending";
+public static String Admin5="Admin";
 }

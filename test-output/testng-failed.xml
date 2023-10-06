@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.ictak.testcase.FacultyTC">
+      <class name="org.ictak.testcase.AdminTC2">
         <methods>
           <include name="intilization"/>
-          <include name="FACULTY_A15"/>
+          <include name="Admin_AP_04"/>
         </methods>
-      </class> <!-- org.ictak.testcase.FacultyTC -->
+      </class> <!-- org.ictak.testcase.AdminTC2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
